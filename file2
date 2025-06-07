@@ -1,0 +1,11 @@
+Connect local repo with GitHub.
+
+Steps:
+
+Create a new repo on GitHub.
+
+From local Git repo, add the remote and push all content.
+
+Create a new branch locally, push it to GitHub.
+
+Delete it from GitHub using git push origin --delete branch.
